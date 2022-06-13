@@ -11,4 +11,4 @@ Here is more info on [C Launguage.](https://en.wikipedia.org/wiki/C_(programming
 
 
 ![Screenshot 2022-05-13 10 21 21 AM](https://user-images.githubusercontent.com/103195306/168304127-b325f95d-55cc-413e-ae6f-338181e5054d.png)<br>
-_I took this from my other account_
+
