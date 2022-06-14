@@ -8,9 +8,9 @@ int main(){
 
 
 	printf("\n\nEnter Eggs:-\n");
-	scanf("%d",eggs);
+	scanf("%d",&eggs);
 	dozens = eggs / 12.0;
-	printf("The Dozens is %d", dozens);
+	printf("The Dozens is %f", dozens);
 
 	return 0;
 }
