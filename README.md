@@ -1,10 +1,10 @@
-## C-Launguage_Projects
+## C/C++-Launguage_Projects
 # ❗❗❗ PLEASE DO NOT STEAL MY CODE! ❗❗❗
-A 'C' launguage Project <br>
+A 'C' and 'C++' launguage Project <br>
 __Want to run my CODE?__ <br>
 #### Click this [LINK](https://www.onlinegdb.com/online_c_compiler) (Leads to a TERMINAL to run project)
 Here is more info on [C Launguage.](https://en.wikipedia.org/wiki/C_(programming_language)) <br>
-
+These C-Programs can be used everyday or ussualy, please also use these to practice and reference but please do not steal!
 
 
 🌟🌟🌟Star project if you like it and want to visit it again!🌟🌟🌟
