@@ -1,10 +1,10 @@
-## C/C++-Launguage_Projects
-# ❗❗❗ PLEASE DO NOT STEAL MY CODE! ❗❗❗
+## Math Tools and other stuff - ORIGINAL
+# ❗❗❗ PLEASE DO NOT STEAL THIS CODE ❗❗❗
 A 'C' and 'C++' launguage Project <br>
-__Want to run my CODE?__ <br>
-#### Click this [LINK](https://www.onlinegdb.com/online_c_compiler) (Leads to a TERMINAL to run project)
-Here is more info on [C Launguage.](https://en.wikipedia.org/wiki/C_(programming_language)) <br>
-These C-Programs can be used everyday or ussualy, please also use these to practice and reference but please do not steal!
+__Want to use the tools?__ <br>
+#### Click this [LINK](https://www.onlinegdb.com/online_c_compiler) and paste my code, select launguage as c++ or c. Then click run! <br>
+Here is more info on [this programming launguage](https://en.wikipedia.org/wiki/C_(programming_language)) <br>
+These tools can be used everyday or ussualy, please also use these to practice and reference for C++ lerning but please do not steal!
 
 
 🌟🌟🌟Star project if you like it and want to visit it again!🌟🌟🌟
