@@ -27,6 +27,11 @@ int  main() {
         result=num1*num2;
         printf("%f",result);
         break;
+            
+        case 'x' :
+        result=num1*num2;
+        printf("%f",result);
+        break;
         
         case '/' :
         result=num1/num2;
