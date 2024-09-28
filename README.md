@@ -10,5 +10,3 @@ These tools can be used everyday or ussualy, please also use these to practice a
 🌟🌟🌟Star project if you like it and want to visit it again!🌟🌟🌟
 
 
-![Screenshot 2022-05-13 10 21 21 AM](https://user-images.githubusercontent.com/103195306/168304127-b325f95d-55cc-413e-ae6f-338181e5054d.png)<br>
-
